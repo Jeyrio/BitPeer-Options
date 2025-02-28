@@ -1,4 +1,4 @@
-;; Bitcoin Options Trading Contract V1
+;; Bitcoin Options Trading Contract V2
 ;; Implements decentralized peer-to-peer options trading with internal BTC tracking
 
 ;; Constants
